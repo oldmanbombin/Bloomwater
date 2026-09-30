@@ -49,9 +49,10 @@ If the server cannot be reached, the app may contact the US National Weather Ser
 - **Approximate location (optional):** only if you tap "Use my location", to find your area for the weather forecast.
 - **Internet:** to fetch the weather forecast as described above.
 
-## Data sources
+## Data sources and credits
 
-Forecast data comes from the US National Weather Service and MET Norway (CC BY 4.0). Place names come from GeoNames (CC BY 4.0) and the US Census Bureau.
+- **Forecast data:** [US National Weather Service](https://www.weather.gov) (public domain) and [MET Norway](https://api.met.no), licensed under [Creative Commons Attribution 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). SoupFork Studios processes this data, reducing hourly forecasts to a daily high temperature. This app is not endorsed by or affiliated with NOAA, the National Weather Service, or MET Norway.
+- **Place names and coordinates:** [GeoNames](https://www.geonames.org), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), and the [US Census Bureau](https://www.census.gov) (ZIP code areas, public domain). The lists are trimmed and reformatted for this app.
 
 ## Deleting your data
 
@@ -63,4 +64,4 @@ If this policy changes, the "Last updated" date above will be revised.
 
 ## Contact
 
-Questions about this policy can be sent to tim@soupforkstudios.com.
+Questions about this policy can be sent to Tim@SoupForkStudios.com.
